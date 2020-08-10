@@ -1,1 +1,1 @@
-# BlogPic
+# PicBed
